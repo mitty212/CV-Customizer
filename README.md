@@ -1,5 +1,6 @@
 # CV-Customizer
 CV Customizer — A Chrome extension that uses AI (via OpenRouter) to generate tailored professional summaries for your resume. Open any job posting, and it automatically crafts a customized summary based on the job description, your existing CV, and base summary — then exports an updated .docx file ready to download.
+
 📄 How to Use CV Customizer
 1. ⚡ Prerequisites & Template Setup
 OpenRouter API Key: Get a key from openrouter.ai.
